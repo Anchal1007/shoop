@@ -1,0 +1,251 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body{
+    background-color:lightblue;
+} */
+/* ---navigation bar section----- */
+.i1 a{
+    font-weight: bold;
+    font-size: 17px;
+}
+ a:hover{
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+/* ----cart section------ */
+.cartsec{
+    border-bottom: 3px dotted grey;
+}
+.cartimg1{
+    width: 100%;
+    height: 500px;
+    background-image:url(images/left-banner-image.jpg);
+    background-size: 100% 100%;
+}
+.cartimg2{
+    width: 100%;
+    height: 243px;
+    background-image:url(images/baner-right-image-01.jpg);
+    background-size: 100% 100%;
+}
+.cartimg3{
+    width: 100%;
+    height: 243px;
+    background-image:url(images/baner-right-image-03.jpg);
+    background-size: 100% 100%;
+}
+.cartimg4{
+    width: 100%;
+    height: 243px;
+    background-image:url(images/baner-right-image-02.jpg);
+    background-size: 100% 100%;
+}
+.cartimg5{
+    width: 100%;
+    height: 243px;
+    background-image:url(images/baner-right-image-04.jpg);
+    background-size: 100% 100%;
+}
+/* <!-- --------------------Men's Section-------- --> */
+.men1{
+    width: 100%;
+    height: 450px;
+    background-image: url(images/men-01.jpg);
+    background-size: 100% 100%;
+}
+.men1 i{
+    display:none;    
+}
+.men1:hover i{
+    display:block;
+   
+}
+.men2{
+    width: 100%;
+    height: 450px;
+    background-image: url(images/men-02.jpg);
+    background-size: 100% 100%;
+}
+.men2 i{
+    display:none;    
+}
+.men2:hover i{
+    display:block;
+   
+}
+.men3{
+    width: 100%;
+    height: 450px;
+    background-image: url(images/men-03.jpg);
+    background-size: 100% 100%;
+}
+.men3 i{
+    display:none;    
+}
+.men3:hover i{
+    display:block;
+   
+}
+.mansect{
+    border-bottom: 3px dotted grey;
+}
+
+/* -------woman section------- */
+
+.women1{
+    width: 100%;
+    height: 450px;
+    background-image: url(images/women-01.jpg);
+    background-size: 100% 100%;
+}
+.women1 i{
+    display:none;    
+}
+.women1:hover i{
+    display:block;
+   
+}
+.women2{
+    width: 100%;
+    height: 450px;
+    background-image: url(images/women-02.jpg);
+    background-size: 100% 100%;
+}
+.women2 i{
+    display:none;    
+}
+.women2:hover i{
+    display:block;
+   
+}
+.women3{
+    width: 100%;
+    height: 450px;
+    background-image: url(images/women-03.jpg);
+    background-size: 100% 100%;
+}
+.women3 i{
+    display:none;    
+}
+.women3:hover i{
+    display:block;
+   
+}
+.womansect{
+    border-bottom: 3px dotted grey;
+}
+
+
+/* -------kid section------- */
+
+.kid1{
+    width: 100%;
+    height: 450px;
+    background-image: url(images/kid-01.jpg);
+    background-size: 100% 100%;
+}
+.kid1 i{
+    display:none;    
+}
+.kid1:hover i{
+    display:block;
+   
+}
+.kid2{
+    width: 100%;
+    height: 450px;
+    background-image: url(images/kid-02.jpg);
+    background-size: 100% 100%;
+}
+.kid2 i{
+    display:none;    
+}
+.kid2:hover i{
+    display:block;
+   
+}
+.kid3{
+    width: 100%;
+    height: 450px;
+    background-image: url(images/kid-03.jpg);
+    background-size: 100% 100%;
+}
+.kid3 i{
+    display:none;    
+}
+.kid3:hover i{
+    display:block;
+   
+}
+.kidsect{
+    border-bottom: 3px dotted grey;
+}
+
+
+
+/* -------------product section------------- */
+.product1{
+    width: 100%;
+    height: 200px;
+    background-image: url(images/single-product-01.jpg);
+    background-size: cover;
+}
+.product2{
+    width: 100%;
+    height: 200px;
+   background-image: url(images/explore-image-01.jpg);
+   background-size: cover;
+}
+.product3{
+    width: 100%;
+    height: 200px;
+    background-image: url(images/explore-image-02.jpg);
+    background-size: 100% 100%;
+}
+.product4{
+    width: 100%;
+    height: 200px;
+background-image: url(images/single-product-02.jpg);
+   background-size: cover;
+}
+.product{
+    border-bottom: 3px dotted gray;
+}
+
+
+/* ----social media section------ */
+.social1{
+    width: 100%;
+    height: 100px;
+    background-image: url(images/instagram-01.jpg);
+    background-size: 100% 100%;
+}
+.social2{
+    width: 100%;
+    height: 100px;
+    background-image: url(images/instagram-01.jpg);
+    background-size: 100% 100%;
+}
+.social{
+    border-bottom: 3px dotted gray;
+}
+
+/* <!-- ---------Subscriptio plan------------ --> */
+.input{
+    width: 280px;
+}
+
+
+/* ------footer--------- */
+.list li a{
+    text-decoration: none;
+    color: white;
+}
+.foot{
+    border-bottom: 1px solid white;
+}
